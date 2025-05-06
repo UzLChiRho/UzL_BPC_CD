@@ -2,7 +2,7 @@
 A project to calculate properties from UV-VIS- and CD-spectra.
 
 Unter folgendem Link finden Sie das Colab-Notebook:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UzLChiRho/UzL_BPC_CD/blob/main/20240425_Myoglobin_CD_Blank.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UzLChiRho/UzL_BPC_CD/blob/main/2025_05_06_Myoglobin_CD_Blank.ipynb)
 
 Falls der Colab-Button nicht funktionieren sollte:
 https://colab.research.google.com/github/UzLChiRho/UzL_BPC_CD/blob/main/20240425_Myoglobin_CD_Blank.ipynb
